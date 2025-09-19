@@ -244,8 +244,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 Made by **Kartik Chilkoti**
 
 💌 For contributions, contact: **[chilkotikartik@gmail.com](mailto:chilkotikartik@gmail.com)**
-
-```
-
-Would you like me to also add a **Contributors section** (so people who contribute can be listed automatically in the README), or just keep the single credit line?
-```
