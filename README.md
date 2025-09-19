@@ -6,7 +6,7 @@ A comprehensive full-stack bug tracking and project management system built for 
 ---
 
 ## 🌐 Live Demo
-Frontend: [Bug Reporting System](https://bug-4.vercel.app/)
+Live: [Bug Reporting System](https://bug-4.vercel.app/)
 
 ---
 
